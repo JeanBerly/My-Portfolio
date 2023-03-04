@@ -1,0 +1,46 @@
+{
+    "headerlinks": {
+      "headerLink1": "About me",
+      "headerLink2": "Experience",
+      "headerLink3": "Projects",
+      "headerLink4": "Contact"
+    },
+    "mainTitle": {
+      "mainPhrase": "Hello, I am ",
+      "name": "Jean",
+      "role": "Software Developer"
+    },
+    "movingGradientWords": {
+      "word1": "Proactivity",
+      "word2": "Independence",
+      "word3": "Communication",
+      "word4": "Games",
+      "word5": "Music" 
+  },
+  "about_me": {
+    "title": "About me",
+    "content": "I've always loved math since I was a child, and when I discovered programming I started to pursue deeper knowledge that could join both Math and Programming. During highschool I had the chance to join COLTEC-UFMG and participate in many extracurricular projects such as joining a group with my friends to submit a Short-Paper to SBGAMES about acessibility in games and developing an acessible game (2222).In my last 6 months at highschool I also had the opportunity to have an internship at the sector of Computer Network from the Department of Chemistry at UFMG.",
+    "skills": "Skills"
+  },
+  "experience": {
+    "title": "Experience",
+    "category_title": "Category:",
+    "duration_title": "Duration:",
+    "2222": {
+      "duration": "04/2022 - 10/2022",
+      "title": "2222: An acessible game to promote environment awareness",
+      "description": "The main focus of this project was to submit sucessfully a Short Paper to the Acessibility track from SBGAMES 2022. For that, I contributed to both the researching and writing of the Short Paper and the development of the demo game. As a group of 4 students and our teacher we learned the dynamics needed for working in group such as pair programming and code version control, how to do academic researches and to put into practice formal writing in English. In the end of our journey we had the opportunity to travel to Natal-RN where the event was located as our Short Paper had been accepted and we had to present it in person for the official submition. There I had the opportunity to reach to many professionals in the area from all across Brazil.",
+      "skills": [
+        "Unity", "C#", "Pair Programming", "Git"
+      ],
+      "category": "Academic Experience"
+    },
+    "dq": {
+      "duration": "07/2022 - 12/2022",
+      "title": "Computer Network Sector from Chemistry Department at UFMG",
+      "description": "Encharged with building the site for the 34th Brazilian Society of Chemistry (ERSBQ2022) and for the implementation of an authentication system via QRCode for the entrance control in the minicourses, which was built with APIs made with PHP and consumed in the frontend with Javascript. During my stay I also had the opportunity to learn many new concepts, such as LXC that were used in the server and SCRUM.",
+      "skills": ["JavaScript", "PHP", "MySQL", "WordPress", "Linux Containers (LXC)", "DNS and DHCP"],
+      "category": "Work Experience"
+    }
+  }
+}

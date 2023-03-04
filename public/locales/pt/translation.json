@@ -1,0 +1,46 @@
+{
+  "headerlinks": {
+    "headerLink1": "Sobre mim",
+    "headerLink2": "Experiência",
+    "headerLink3": "Projetos",
+    "headerLink4": "Contato"
+  },
+  "mainTitle": {
+    "mainPhrase": "Olá, eu sou o ",
+    "name": "Jean",
+    "role": "Desenvolvedor de Software"
+  },
+  "movingGradientWords": {
+      "word1": "Proatividade",
+      "word2": "Independência",
+      "word3": "Comunicação",
+      "word4": "Jogos",
+      "word5": "Música"
+  },
+  "about_me": {
+    "title": "Sobre mim",
+    "content": "Sempre gostei de matemática, e quando conheci a programação começei a buscar cada vez mais um conhecimento mais profundo que unisse as duas áreas. Durante o ensino médio no COLTEC-UFMG tive a oportunidade de participar de participar de projetos extra-curriculares como formar um grupo para submeter um Short-Paper para a SBGAMES sobre acessibilidade em jogos e criando a demo de um jogo acessível (2222). Durante os últimos seis meses do meu ensino médio também tive a oportunidade de estagiar no Setor de Redes do Departamento de Química da UFMG.",
+    "skills": "Habilidades"
+  },
+  "experience": {
+    "title": "Experiência",
+    "category_title": "Categoria:",
+    "duration_title": "Duração:",
+    "2222": {
+      "duration": "04/2022 - 10/2022",
+      "title": "2222: An acessible game to promote environment awareness",
+      "description": "O principal objetivo deste projeto foi o de ter um Short Paper aceito para ser submetido na trilha de acessibilidade da SBGAMES 2022. Para isso, eu contribui com a pesquisa e escrita do Short Paper como também no desenvolvimento da versão demo do jogo 2222. Como um grupo de 4 alunos e uma professora orientadora tivemos a oportunidade de aprender as dinâmicas necessárias para trabalhar em grupo como Pair Programming e versionamento de código além de aprender a fazer pesquisa acadêmica pôr em prática a escrita formal em Inglês. No final da nossa jornada tivemos a oportunidade de viajar até Natal-RN onde era a sede do evento já que nosso Short Paper havia sido aceito e era necessário apresentá-lo em pessoa para a submissão oficial. Lá tive a oportunidade de conhecer diversos profissionais da área de todo o Brasil.",
+      "skills": [
+        "Unity", "C#", "Pair Programming"
+      ],
+      "category": "Experiência Acadêmica"
+    },
+    "dq": {
+      "duration": "07/2022 - 12/2022",
+      "title": "Setor de Redes do Departamento de Química da UFMG",
+      "description": "Responsável pela criação do site do 34º Encontro Regional da Sociedade Brasileira de Química(ERSBQ2022) e pela implementação de um sistema de autenticação via QRCode para ingresso nos minicursos do evento feito com APIs no backend com PHP e consumo das mesmas no front-end com Javascript. Durante meu período de estágio também tive a oportunidade de aprender conceitos novos para mim como LXC que eram usados no servidor do setor e SCRUM.",
+      "skills": ["JavaScript", "PHP", "MySQL", "WordPress", "Linux Containers (LXC)", "DNS e DHCP"],
+      "category": "Experiência Profissional"
+    }
+  }
+}
